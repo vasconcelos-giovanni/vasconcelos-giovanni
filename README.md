@@ -26,6 +26,12 @@ Learning and challenges resolutions in the more practical and maintainable way, 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## Languages
+
+* 🇬🇧(C1)
+* 🇪🇸(B1)
+* 🇧🇷 (native)
+
 ## Education
 
 - **Degree in System Analysis and Development** — *IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, Brazil* — 2022 - today
