@@ -28,9 +28,9 @@ Learning and challenges resolutions in the more practical and maintainable way, 
 
 ## Languages
 
-* 🇬🇧(C1)
-* 🇪🇸(B1)
-* 🇧🇷 (native)
+* English (C1)
+* Spanish (B1)
+* Portuguese (native)
 
 ## Education
 
@@ -39,7 +39,7 @@ Learning and challenges resolutions in the more practical and maintainable way, 
 
 ## Find me
 
-✉️ giovannivmedeiros@gmail.com
+E-mail: giovannivmedeiros@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhiuzak)
 [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://my.indeed.com/p/giovanniv-mfy2ybq)
