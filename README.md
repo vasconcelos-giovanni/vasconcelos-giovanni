@@ -1,11 +1,9 @@
-# Giovanni Vasconcelos - Full-Stack Web Developer
+# Giovanni Vasconcelos - Full-Stack Web Developer PHP | JS | Laravel | Vue.js | Bootstrap | MySQL
 
 ## About me
-
 Learning and challenges resolutions in the more practical and maintainable way, with good communication, are what guides me in my path in web development. Recently I worked with Laravel, JavaScript, Bootstrap and MySQL in a website during a few months.
 
 ## Skills
-
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -14,6 +12,7 @@ Learning and challenges resolutions in the more practical and maintainable way, 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Front-end
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,19 +26,16 @@ Learning and challenges resolutions in the more practical and maintainable way, 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Languages
-
 * English (C1)
 * Spanish (B1)
 * Portuguese (native)
 
 ## Education
-
 - **Degree in System Analysis and Development** — *IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, Brazil* — 2022 - today
 - **Information Technology certificate with High School** — *IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, Brazil* — 2017 - 2021
 
 ## Find me
-
-E-mail: giovannivmedeiros@gmail.com
+E-mail: vasconcelos.giovanni@outlook.com
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhiuzak)
 [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://my.indeed.com/p/giovanniv-mfy2ybq)
