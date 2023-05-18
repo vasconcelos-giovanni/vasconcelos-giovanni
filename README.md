@@ -37,6 +37,6 @@ Learning and challenges resolutions in the more practical and maintainable way, 
 ## Find me
 E-mail: vasconcelos.giovanni@outlook.com
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhiuzak)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasconcelos-giovanni)
 [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://my.indeed.com/p/giovanniv-mfy2ybq)
 
