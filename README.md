@@ -29,20 +29,11 @@ With a passion for learning and a keen focus on practical and maintainable solut
 
 ## Languages
 
-  <p>
-  <img src="img/emojis/uk.png" alt="UK's flag emoji" style="display: inline; vertical-align: middle; width: 32px; height: 32px;">
-  <span style="display: inline; vertical-align: middle;">Fluent</span>
-</p>
+🇬🇧 Fluent
 
-<p>
-  <img src="img/emojis/es.png" alt="Spain's flag emoji" style="display: inline; vertical-align: middle; width: 32px; height: 32px;">
-  <span style="display: inline; vertical-align: middle;">Intermediate</span>
-</p>
+🇪🇸 Intermediate
 
-<p>
-  <img src="img/emojis/br.png" alt="Brazil's flag emoji" style="display: inline; vertical-align: middle; width: 32px; height: 32px;">
-  <span style="display: inline; vertical-align: middle;">Native</span>
-</p>
+🇧🇷 Native
 
 ## Education
 - **Degree in System Analysis and Development** — *IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, Brazil* — 2022 - today
@@ -50,10 +41,7 @@ With a passion for learning and a keen focus on practical and maintainable solut
 
 ## Find me
 
-<p>
-  <img src="img/emojis/email.png" alt="Emoji" style="display: inline; vertical-align: middle; width: 32px; height: 32px;">
-  <span style="display: inline; vertical-align: middle;">vasconcelos.giovanni@hotmail.com</span>
-</p>
+📫 vasconcelos.giovanni@hotmail.com
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasconcelos-giovanni)
 [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://my.indeed.com/p/giovanniv-mfy2ybq)
