@@ -30,17 +30,17 @@ Aspiring web developer with a passion for learning and a keen focus on practical
 ## Languages
 
   <p>
-  <img src="img/emojis/uk.png" alt="UK's flag emoji" style="display: inline; vertical-align: middle; width: 2.5rem; height: 2.5rem;">
+  <img src="img/emojis/uk.png" alt="UK's flag emoji" style="display: inline; vertical-align: middle; width: 32px; height: 32px;">
   <span style="display: inline; vertical-align: middle;">Fluent</span>
 </p>
 
 <p>
-  <img src="img/emojis/es.png" alt="Spain's flag emoji" style="display: inline; vertical-align: middle; width: 2.5rem; height: 2.5rem;">
+  <img src="img/emojis/es.png" alt="Spain's flag emoji" style="display: inline; vertical-align: middle; width: 32px; height: 32px;">
   <span style="display: inline; vertical-align: middle;">Intermediate</span>
 </p>
 
 <p>
-  <img src="img/emojis/br.png" alt="Brazil's flag emoji" style="display: inline; vertical-align: middle; width: 2.5rem; height: 2.5rem;">
+  <img src="img/emojis/br.png" alt="Brazil's flag emoji" style="display: inline; vertical-align: middle; width: 32px; height: 32px;">
   <span style="display: inline; vertical-align: middle;">Native</span>
 </p>
 
@@ -51,7 +51,7 @@ Aspiring web developer with a passion for learning and a keen focus on practical
 ## Find me
 
 <p>
-  <img src="img/emojis/email.png" alt="Emoji" style="display: inline; vertical-align: middle; width: 2.5rem; height: 2.5rem;">
+  <img src="img/emojis/email.png" alt="Emoji" style="display: inline; vertical-align: middle; width: 32px; height: 32px;">
   <span style="display: inline; vertical-align: middle;">vasconcelos.giovanni@hotmail.com</span>
 </p>
 
