@@ -31,7 +31,7 @@ With a passion for learning and a keen focus on practical and maintainable solut
 
 🇬🇧 Fluent
 
-🇪🇸 Intermediate
+🇪🇸 Advanced
 
 🇧🇷 Native
 
