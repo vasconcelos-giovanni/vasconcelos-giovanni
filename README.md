@@ -41,7 +41,9 @@ With a passion for learning and a keen focus on practical and maintainable solut
 
 ## Find me
 
-📫 vasconcelos.giovanni@hotmail.com
+📫 Email: vasconcelos.giovanni@hotmail.com
+
+Website: [Giovanni Vasconcelos](https://vasconcelos-giovanni.github.io/giovanni-vasconcelos)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasconcelos-giovanni)
 [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://my.indeed.com/p/giovanniv-mfy2ybq)
