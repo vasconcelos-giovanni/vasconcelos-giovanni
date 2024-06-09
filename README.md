@@ -29,11 +29,11 @@ With a passion for learning and a keen focus on practical and maintainable solut
 
 ## Languages
 
-🇬🇧 Fluent
+English (fluent)
 
-🇪🇸 Advanced
+Spanish (intermediate)
 
-🇧🇷 Native
+Portuguese (native)
 
 ## Education
 - **Degree in System Analysis and Development** — *IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, Brazil* — 2022 - today
