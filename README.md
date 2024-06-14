@@ -1,4 +1,4 @@
-# Giovanni Vasconcelos - Full-Stack Web Developer (C# | .NET | Blazor | Bootstrap | MySQL) • Portuguese Translator 
+# Giovanni Vasconcelos - Web Developer (C# | .NET | Blazor | Bootstrap | MySQL) • Portuguese Translator 
 
 ## Development Skills
 
