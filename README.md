@@ -2,7 +2,7 @@
 
 ## About me
 
-With a passion for knowlege and a keen focus on clean code and maintainable solutions for the improvement of people's quality of life, I thrive on challenges head-on while embracing effective communication. My journey in web development is guided by a commitment to continuous growth and delivering high-quality results.
+With a passion for knowledge and a keen focus on clean code and maintainable solutions for the improvement of people's quality of life, I thrive on challenges head-on while embracing effective communication. My journey in web development is guided by a commitment to continuous growth and delivering high-quality results.
 
 ## Skills
 
