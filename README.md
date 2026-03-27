@@ -8,7 +8,9 @@
 <a name="english"></a>
 ### 🇺🇸 About me
 
-With a passion for knowledge and a keen focus on **clean code** and maintainable solutions, I thrive on challenges while embracing effective communication. My journey in web development is guided by a commitment to continuous growth and delivering high-quality results that improve people's quality of life.
+I am a pragmatic **Web Programmer** driven by the balance between delivering value on tight deadlines and building maintainable solutions. While I am constantly refining my knowledge of software architecture (such as Clean Code and SOLID), my focus is always on practical results. 
+
+I enjoy creating and modernizing web applications, ensuring they solve real-world problems efficiently today while remaining scalable for tomorrow. I know how to deliver the necessary features to keep a project moving forward without compromising its future quality. Ultimately, my goal is to use technology to build intuitive systems that improve people's quality of life.
 
 ### Skills
 
@@ -29,7 +31,9 @@ With a passion for knowledge and a keen focus on **clean code** and maintainable
 <a name="portugues"></a>
 ### 🇧🇷 Sobre mim
 
-Apaixonado por conhecimento e focado em **clean code** e soluções sustentáveis, encaro desafios de frente com comunicação assertiva. Minha jornada no desenvolvimento web é guiada pelo compromisso com o crescimento contínuo e pela entrega de resultados de alta qualidade que impactam positivamente a vida das pessoas.
+Sou um **Programador Web** pragmático, movido pelo equilíbrio entre entregar valor dentro dos prazos e construir soluções manuteníveis. Embora eu esteja em constante aprimoramento dos meus conhecimentos em arquitetura de software (como Clean Code e SOLID), meu foco é sempre no resultado prático.
+
+Gosto de criar e modernizar aplicações web, garantindo que resolvam problemas reais com eficiência hoje, mantendo-se escaláveis para o amanhã. Sei como entregar as funcionalidades necessárias para fazer um projeto avançar sem comprometer sua qualidade futura. No fim das contas, meu objetivo é usar a tecnologia para criar sistemas intuitivos que melhorem a qualidade de vida das pessoas.
 
 ### Idiomas / Languages
 
